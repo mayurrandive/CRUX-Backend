@@ -1,0 +1,60 @@
+{
+    "projects": [
+        {
+            "title": "Deep Face Detection Model",
+            "description": "Developed a TensorFlow machine learning model with advanced bounding boxes and CNN detection capabilities",
+            "tech_stack": ["TensorFlow", "CNN"],
+            "time_duration": {
+                "start": "03-2023",
+                "end": "04-2023",
+                "duration_months": 2
+            },
+            "relevancy": 5
+        },
+        {
+            "title": "AnyTime Food",
+            "description": "Contributed to Microservices-Based Architecture and developed a Food Ordering Web App with ReactJS and Django",
+            "tech_stack": ["ReactJS", "Django", "Kubernetes", "Grafana", "Django Rest Framework"],
+            "time_duration": {
+                "start": "03-2022",
+                "end": "04-2022",
+                "duration_months": 2
+            },
+            "relevancy": 4
+        }
+    ],
+    "experience": [
+        {
+            "role": "Full Stack Developer Intern",
+            "organization": "Suresteps Edutech Pvt Ltd",
+            "short_description": "Revolutionized hospital billing procedures with a React web app, enhancing UI/UX and streamlining operations",
+            "tech_stack": ["React", "FastAPI", "PostgreSQL", "Jenkins", "Kubernetes", "Docker"],
+            "time_duration": {
+                "start": "03-2023",
+                "end": "05-2023",
+                "duration_months": 3
+            },
+            "relevancy": 5
+        },
+        {
+            "role": "Frontend Development Intern",
+            "organization": "ARorVR",
+            "short_description": "Created immersive landing page and ChatBot with ReactJS and GSAP animations for enhanced user experience",
+            "tech_stack": ["ReactJS", "GSAP", "Redux", "Figma"],
+            "time_duration": {
+                "start": "07-2022",
+                "end": "09-2022",
+                "duration_months": 3
+            },
+            "relevancy": 4
+        }
+    ],
+    "college": {
+        "name": "Indian Institute of Technology Kharagpur",
+        "branch": "Mining Engineering / Safety Engineering",
+        "degree": "Dual Degree",
+        "cgpa": 8.37,
+        "start": "07-2020",
+        "end": "05-2025"
+    }
+}

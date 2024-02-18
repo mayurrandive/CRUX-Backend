@@ -1,0 +1,51 @@
+{
+  "student_name": "Mayur Ramesh Randive",
+  "projects": [
+    {
+      "title": "CodeHub - DSA Problem Search Engine",
+      "description": "Designed a dedicated Search Engine exclusively focused on Data Structures and Algorithms (DSA) problems. Employed Web Scraping, utilizing BeautifulSoup and Selenium to collect 2000+ DSA questions from CP platforms. Implemented tf-idf algorithm to rank relevance of questions, ensuring accurate retrieval of top relevant questions. Developed a user-friendly web interface using HTML, CSS, and Flask for searching top 15 DSA problem results.",
+      "tech_stack": ["Python", "Web Scraping", "BeautifulSoup", "Selenium", "tf-idf algorithm", "HTML", "CSS", "Flask"],
+      "time_duration": {"start": "06-2023", "end": "07-2023", "duration_months": 2},
+      "relevancy": 5
+    },
+    {
+      "title": "NeverStop - Competition Hosting Platform - MERN Stack",
+      "description": "Designed & developed a competition platform enabling team formation and join requests, utilizing React.js. Effectively managed data storage, user authentication, and real-time interactions utilizing Socket.IO and Express.js. Utilized MongoDB to ensure data integrity, seamless retrieval and manipulation of user and competition data. Implemented JWT for user authentication, utilizing access and refresh tokens for security and user verification.",
+      "tech_stack": ["MERN Stack", "React.js", "Socket.IO", "Express.js", "MongoDB", "JWT"],
+      "time_duration": {"start": "01-2023", "end": "02-2023", "duration_months": 2},
+      "relevancy": 4
+    },
+    {
+      "title": "Sorting Visualizer",
+      "description": "Created a web page with animations for visualizing sorting algorithms, improving understanding of their operations. Implemented Bubble Sort, Insertion Sort, Heap Sort, Merge Sort, and Quick Sort algorithms using JavaScript. Designed an intuitive user interface with adjustable array size, speed controls, and algorithm selection options. Demonstrated strong problem-solving abilities, attention to detail, and expertise in front-end development.",
+      "tech_stack": ["Web Development", "JavaScript", "Bubble Sort", "Insertion Sort", "Heap Sort", "Merge Sort", "Quick Sort"],
+      "time_duration": {"start": "06-2022", "end": "07-2022", "duration_months": 2},
+      "relevancy": 4
+    },
+    {
+      "title": "Amazon And Flipkart Product Price Tracker",
+      "description": "Developed a Python-based Product Price Tracker from Amazon and Flipkart websites using Web Scraping. Utilized Python's Requests and BeautifulSoup modules for data collection and processing, for price tracking. Developed a product price tracker that utilizes Smtplib and SSL modules to send email notifications for price drops.",
+      "tech_stack": ["Python", "Web Scraping", "Requests", "BeautifulSoup", "Smtplib", "SSL"],
+      "time_duration": {"start": "03-2021", "end": "04-2021", "duration_months": 2},
+      "relevancy": 3
+    }
+  ],
+  "experience": [
+    {
+      "role": "Wing Representative",
+      "organization": "Radhakrishnan Hall, IIT Kharagpur",
+      "short_description": "Led and promoted wing-level community activities, maintaining a supportive environment for 35+ students. Advocated for residents and actively contributed to hall's decision-making, for their well-being and satisfaction.",
+      "tech_stack": [],
+      "time_duration": {"start": "08-2022", "end": "04-2023", "duration_months": 8},
+      "relevancy": 4
+    }
+  ],
+  "college": {
+    "name": "IIT Kharagpur",
+    "branch": "M.Tech Dual Degree 5Y",
+    "degree": "Dual Degree",
+    "cgpa": 8.30,
+    "start": "07-2018",
+    "end": "05-2023"
+  }
+}
